@@ -1,0 +1,6 @@
+{
+  "name": "HVAC Express Contracting LLC",
+  "description": "Licensed HVAC contractor in Austin, TX providing 24/7 AC repair, heating maintenance, heat pump installation, indoor air quality, and commercial HVAC services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
